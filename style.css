@@ -1,31 +1,25 @@
 body {
    background: floralwhite;
 }
-
 h1 {
    color: teal;
    text-align: center;
    font-size: 120;
    font-family: arial;
 }
-
-p1  {
-   color: orangered;
-   text-align: center;
-   font-size: 40;
-   font-family: arial;
-   font-weight: bold;
-}
-
 p {
    color: firebrick;
    text-align: center;
    font-weight: bold;
    font-size: 40;
    font-family: arial;
-
 }
-p2 {
-   color: blue;
+p1  {
+   color: orangered;
    text-align: center;
+   font-size: 40;
+   font-family: arial;
+   font-weight: bold;
+   display: block;
 }
+
