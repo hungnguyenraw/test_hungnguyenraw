@@ -1,9 +1,17 @@
+body {
+   background: dimgray;
+}
+
 h1 {
    color: teal;
-   text-align: center; 
+   text-align: center;
+   font-size: 30;
+   font-family: arial;
 }
 
 p  {
-   color: blue;
+   color: royalblue;
    text-align: center;
+   font-size: 15;
+   font-family: arial;
 }
