@@ -1,15 +1,9 @@
 h1 {
    color: teal;
-   text-align: center;
-   font-size: 150px;
-   font-family: Arial;
-   background: dimgray;
+   text-align: center; 
 }
 
 p  {
    color: royalblue;
    text-align: center;
-   font-size: 70px;
-   font-family: Arial;
-   background: dimgray;
 }
