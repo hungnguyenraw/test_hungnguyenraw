@@ -19,8 +19,9 @@ p2  {
 
 p {
    color: firebrick;
+   text-align: center;
    font-weight: bold;
    font-size: 25;
    font-family: arial;
-   text-align: center;
+
 }
