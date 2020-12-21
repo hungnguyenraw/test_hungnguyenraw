@@ -1,8 +1,16 @@
+body {
+   background: dimgray;
+}
+
 h1 {
    color: teal;
    text-align: center;
+   font-size: 150px;
+   font-family: Arial;
 }
 p  {
    color: wheat;
    text-align: center;
+   font-size: 70px;
+   font-family: Arial;
 }
