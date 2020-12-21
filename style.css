@@ -5,7 +5,7 @@ body {
 h1 {
    color: teal;
    text-align: center;
-   font-size: 60;
+   font-size: 80;
    font-family: arial;
 }
 
@@ -17,7 +17,7 @@ p  {
    font-weight: bold;
 }
 
-p1 {
+p2 {
    color: firebrick;
    font-weight: bold;
    font-size: 25;
