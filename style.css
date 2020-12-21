@@ -10,19 +10,18 @@ h1 {
 p {
    color: firebrick;
    font-weight: bold;
-   font-size: 40;
+   font-size: 33;
    font-family: arial;
 }
 p1  {
    color: orangered;
-   font-size: 40;
+   font-size: 33;
    font-family: arial;
    font-weight: bold;
-   display: block;
 }
 a {
    display: block;
-   width: 40px;
-   height: 40px;
+   width: 120%;
+   height: 120%;
 }
 
