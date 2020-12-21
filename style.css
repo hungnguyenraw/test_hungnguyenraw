@@ -9,10 +9,10 @@ h1 {
    font-family: arial;
 }
 
-p2  {
+p1  {
    color: orangered;
    text-align: center;
-   font-size: 25;
+   font-size: 40;
    font-family: arial;
    font-weight: bold;
 }
@@ -21,7 +21,7 @@ p {
    color: firebrick;
    text-align: center;
    font-weight: bold;
-   font-size: 25;
+   font-size: 40;
    font-family: arial;
 
 }
