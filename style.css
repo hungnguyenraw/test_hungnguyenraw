@@ -14,11 +14,13 @@ p  {
    text-align: center;
    font-size: 25;
    font-family: arial;
+   font-weight: bold;
 }
 
 p1 {
-   color: darkred;
+   color: firebrick;
    font-weight: bold;
-   font-size:25;
+   font-size: 25;
    font-family: arial;
+   text-align: center;
 }
