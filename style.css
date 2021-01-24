@@ -5,15 +5,10 @@ body {
 }
 h1 {
    color: teal;
-   font-size: 120;
+   font-size: 100;
    font-family: arial;
 }
-p {
-   color: firebrick;
-   font-weight: bold;
-   font-size: 33;
-   font-family: arial;
-}
+
 p1  {
    color: orangered;
    font-size: 33;
